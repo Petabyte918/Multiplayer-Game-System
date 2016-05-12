@@ -1,9 +1,6 @@
 # The Space Race
 ### 315-game-Coders10101010
 
-##### Visual elements of the project:
-
-https://ideamache.ecologylab.net/v/5Qhu0VVkPq/
 ##### Complete Report:
 
 https://docs.google.com/document/d/1a7XyMw7BBSgZIlaqBKJ9af7W-Sz7Nxujy2bfOLSEHZ8/edit?usp=sharing
