@@ -16,9 +16,3 @@ Sagar Ali
 
 Jacqueline Vital
 
-
-<<<<<<< HEAD
-
-
-=======
->>>>>>> c57ed02c1165a9eb735a15e684c2e4594d5d23ac
