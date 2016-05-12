@@ -1,0 +1,5 @@
+-connect to compute.cse.tamu.edu
+-navigate to the SpaceRace directory
+-type command "node app.js"
+-open up a browser and type "compute.cse.tamu.edu:20002"
+-the game will start.
